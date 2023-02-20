@@ -14,6 +14,13 @@ fun main(){
     fruits[1] = "Mango"
 
 
+    println("\n \n prints array elemets by using for loop....")
+    //prints array elemets by using for loop
+    for (i in fruits){
+        println(i)
+    }
+
+
 
 
 }
